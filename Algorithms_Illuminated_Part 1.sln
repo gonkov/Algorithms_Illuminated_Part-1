@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "1. BubbleSort\BubbleSort.csproj", "{F56BFE04-8746-4019-AAF0-2F227B4828A7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort_ver_1", "1. MergeSort\MergeSort_ver_1.csproj", "{00DD70D9-A5FE-42D4-AF15-E44C6230F528}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karatsuba_mult", "1.Karatsuba_mult\Karatsuba_mult.csproj", "{F40C3567-D6AE-415B-93FE-9747098E450B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karatsuba_mult_debug", "1.Karatsuba_mult_debug\Karatsuba_mult_debug.csproj", "{0372FB84-9345-4BC7-9B87-975C01B8E7D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort_with_counter", "1.MergeSort_With_counter\MergeSort_with_counter.csproj", "{95691D73-7A7D-4BE3-8445-72DE471461D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "1.BubbleSort\BubbleSort.csproj", "{F56BFE04-8746-4019-AAF0-2F227B4828A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort_ver_1", "1.MergeSort\MergeSort_ver_1.csproj", "{00DD70D9-A5FE-42D4-AF15-E44C6230F528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 Problem - Search max element of unimodal array", "3.2 Problem - Search max element of unimodal array\3.2 Problem - Search max element of unimodal array.csproj", "{9180D79D-E197-4A15-9F9D-479B04B8AFC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F40C3567-D6AE-415B-93FE-9747098E450B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F40C3567-D6AE-415B-93FE-9747098E450B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F40C3567-D6AE-415B-93FE-9747098E450B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +33,18 @@ Global
 		{95691D73-7A7D-4BE3-8445-72DE471461D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95691D73-7A7D-4BE3-8445-72DE471461D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95691D73-7A7D-4BE3-8445-72DE471461D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56BFE04-8746-4019-AAF0-2F227B4828A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DD70D9-A5FE-42D4-AF15-E44C6230F528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
