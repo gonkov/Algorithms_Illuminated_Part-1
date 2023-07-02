@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort_ver_1", "1.MergeS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 Problem - Search max element of unimodal array", "3.2 Problem - Search max element of unimodal array\3.2 Problem - Search max element of unimodal array.csproj", "{9180D79D-E197-4A15-9F9D-479B04B8AFC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3 Problem Search Though sorted array", "3.3 Problem Search Though sorted array\3.3 Problem Search Though sorted array.csproj", "{999D47C2-337A-4281-818C-690546F8529F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9180D79D-E197-4A15-9F9D-479B04B8AFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999D47C2-337A-4281-818C-690546F8529F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999D47C2-337A-4281-818C-690546F8529F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999D47C2-337A-4281-818C-690546F8529F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999D47C2-337A-4281-818C-690546F8529F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
