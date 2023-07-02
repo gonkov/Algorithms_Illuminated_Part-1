@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 Problem - Search max el
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3 Problem Search Though sorted array", "3.3 Problem Search Though sorted array\3.3 Problem Search Though sorted array.csproj", "{999D47C2-337A-4281-818C-690546F8529F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 CountInv", "3.5 CountInv\3.5 CountInv.csproj", "{E5FC75B5-B032-41BE-80DF-CFE7164C5BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{999D47C2-337A-4281-818C-690546F8529F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999D47C2-337A-4281-818C-690546F8529F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999D47C2-337A-4281-818C-690546F8529F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FC75B5-B032-41BE-80DF-CFE7164C5BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FC75B5-B032-41BE-80DF-CFE7164C5BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FC75B5-B032-41BE-80DF-CFE7164C5BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FC75B5-B032-41BE-80DF-CFE7164C5BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
